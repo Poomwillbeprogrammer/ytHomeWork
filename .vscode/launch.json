@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/poomw/Documents/GitHub/ytHomeWork",
-      "program": "c:/Users/poomw/Documents/GitHub/ytHomeWork/build/Debug/outDebug",
+      "cwd": "c:/Users/poomw/Documents/GitHub/ytHomeWork/15-8f",
+      "program": "c:/Users/poomw/Documents/GitHub/ytHomeWork/15-8f/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
